@@ -12,7 +12,7 @@ long Dob_Arr(int a[], const int N);
 int Sum_abs_Arr(int a[], const int N);
 
 const int N = 6;
-int a[sizeof(N)];
+int a[6];
 
 int main(void)
 {
